@@ -1,0 +1,17 @@
+HTML Features:
+
+1.Semantics: HTML5 introduced new elements with semantic meaning, such as <header>, 
+  <nav>, <section>, <article>, <footer>, etc. These elements provide a clearer structure and meaning to the content of a web page.
+
+
+2.Multimedia Support: HTML5 includes native support for embedding and playing audio and video content without the need for 
+  third-party plugins like Flash.
+
+3.Canvas: The <canvas> element in HTML5 provides a powerful and flexible way to draw graphics and animations directly on a
+   web page using JavaScript.
+
+4.Geolocation: HTML5 provides an API that allows websites to access the user's geographical location information. 
+  This feature enables location-based services, mapping applications, and other location-aware web applications.
+
+5.Drag and Drop: HTML5 added support for native drag and drop functionality, making it easier to implement intuitive
+  user interfaces that involve dragging and dropping elements.
